@@ -16,7 +16,7 @@ data = {
       "latest_purchase": null,
       "has_newsletter": true,
       "groups": [
-        "regular"
+        "leavemealone"
       ],
       "nb_commands": 0,
       "total_spent": 0
@@ -2430,7 +2430,7 @@ data = {
       "has_ordered": false,
       "latest_purchase": null,
       "has_newsletter": true,
-      "groups": [],
+      "groups": ["leavemealone"],
       "nb_commands": 0,
       "total_spent": 0
     },
@@ -4064,7 +4064,7 @@ data = {
       "has_ordered": false,
       "latest_purchase": null,
       "has_newsletter": true,
-      "groups": [],
+      "groups": ["needhelp"],
       "nb_commands": 0,
       "total_spent": 0
     },
@@ -8611,13 +8611,14 @@ data = {
       "city": null,
       "avatar": "https://robohash.org/df63e16d0d2f8fac9c56c1dfbbe57627.png",
       "birthday": null,
-      "first_seen": "2017-04-02T09:59:52.520Z",
-      "last_seen": "2017-09-13T07:08:35.602Z",
+      "first_seen": "2018-04-02T09:59:52.520Z",
+      "last_seen": "2018-09-13T07:08:35.602Z",
       "has_ordered": false,
       "latest_purchase": null,
       "has_newsletter": true,
       "groups": [
-        "regular"
+          "regular",
+          "leavemealone"
       ],
       "nb_commands": 0,
       "total_spent": 0
@@ -11656,8 +11657,8 @@ data = {
       "city": null,
       "avatar": "https://robohash.org/27d5d51611000e5d15ec592c96eae895.png",
       "birthday": null,
-      "first_seen": "2017-03-12T05:13:13.095Z",
-      "last_seen": "2017-07-06T19:33:18.550Z",
+      "first_seen": "2017-01-12T05:13:13.095Z",
+      "last_seen": "2019-01-06T19:33:18.550Z",
       "has_ordered": false,
       "latest_purchase": null,
       "has_newsletter": true,

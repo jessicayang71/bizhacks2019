@@ -8,16 +8,12 @@ import { translate, DashboardMenuItem, MenuItemLink } from 'admin-on-rest';
 import { VisitorIcon } from './visitors';
 import { CommandIcon } from './commands';
 import { ProductIcon } from './products';
-import { CategoryIcon } from './categories';
-import { ReviewIcon } from './reviews';
 
 const items = [
     { name: 'customers', icon: <VisitorIcon /> },
     { name: 'segments', icon: <LabelIcon /> },
     { name: 'commands', icon: <CommandIcon /> },
     { name: 'products', icon: <ProductIcon /> },
-    { name: 'categories', icon: <CategoryIcon /> },
-    { name: 'reviews', icon: <ReviewIcon /> },
 ];
 
 const styles = {

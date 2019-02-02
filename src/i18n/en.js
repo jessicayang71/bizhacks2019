@@ -125,11 +125,10 @@ export default {
                 name: 'Name',
             },
             data: {
-                compulsive: 'Compulsive',
-                collector: 'Collector',
+                leavemealone: 'Leave me alone',
+                needhelp: 'Need help',
                 ordered_once: 'Ordered once',
                 regular: 'Regular',
-                returns: 'Returns',
                 reviewer: 'Reviewer',
             },
         },
